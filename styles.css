@@ -91,6 +91,7 @@ hr {
 }
 
 .hero .hero-heading {
+    text-align: center;
     margin: auto;
     color: var(--dark-grey);
 }
@@ -111,4 +112,22 @@ hr {
 
 .ow {
     background-color: var(--off-white);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--primary-color);
+    border-top-right-radius: 1rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer .ul {
+    padding-inline-start: 0px;
+}
 }
