@@ -8,7 +8,7 @@ hr {
     margin: 1rem 0rem;
 }
 :root {
-    --primary-color: #4F46E5;
+    --primary-color: #111827;
     --dark-grey: #6B7280;
     --off-white: #F3F4F6;
 
@@ -117,6 +117,10 @@ hr {
 }
 
 /* Footer */
+
+
+
+
 .footer {
     background-color: var(--primary-color);
     border-top-right-radius: 1rem;
